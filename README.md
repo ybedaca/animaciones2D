@@ -1,2 +1,2 @@
 # animaciones2D
-Ejemplo de coo utilizar animaciones 2D
+Ejemplo de como utilizar animaciones 2D
